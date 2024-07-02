@@ -2,3 +2,4 @@
 -memahami git dan github
 -membuat web akhir/projek akhir
 -sidang pkl
+-ujian
