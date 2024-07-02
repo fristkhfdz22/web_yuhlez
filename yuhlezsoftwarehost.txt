@@ -1,0 +1,3 @@
+-memahami logika dasar
+-memahami git dan github
+-membuat web akhir/projek akhir
